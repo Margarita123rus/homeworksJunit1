@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.unit.CashbackHackServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-31T21:24:43" hostname="DESKTOP-HL4H3N8" time="0.066">
+<testsuite name="ru.netology.unit.CashbackHackServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-31T21:39:05" hostname="DESKTOP-HL4H3N8" time="0.025">
   <properties/>
-  <testcase name="mustOfferToBuyUpTo1000()" classname="ru.netology.unit.CashbackHackServiceTest" time="0.066"/>
+  <testcase name="mustOfferToBuyUpTo1000()" classname="ru.netology.unit.CashbackHackServiceTest" time="0.025"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
