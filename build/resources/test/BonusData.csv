@@ -1,0 +1,4 @@
+amount,expected,message
+900,100,for maximum cashback buy on 100
+1100,900,for maximum cashback buy on 900
+1000,0,cashback  10
